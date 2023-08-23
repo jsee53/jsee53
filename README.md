@@ -1,5 +1,4 @@
-### Hi there 👋
-진시영
+Frontend Developer - 진시영
 
 Stacks
 
@@ -18,3 +17,6 @@ Tools
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/><!-- visualstudiocode -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!-- github -->
+
+Algorithm Level
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsee53)](https://solved.ac/jsee53/)  
