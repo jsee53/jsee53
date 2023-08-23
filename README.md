@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/><!-- visualstudiocode -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!-- github -->
 
-## GitHub Status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsee53&show_icons=true&theme=radical)
-
 ## Algorithm Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsee53)](https://solved.ac/jsee53/)
