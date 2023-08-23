@@ -20,4 +20,4 @@ Tools
 
 Algorithm Level
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsee53)](https://solved.ac/jsee53/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsee53)](https://solved.ac/jsee53/)
