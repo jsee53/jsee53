@@ -22,3 +22,7 @@ Tools
 Algorithm Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsee53)](https://solved.ac/jsee53/)
+
+About me
+Emanil : <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><!-- naver -->
+
