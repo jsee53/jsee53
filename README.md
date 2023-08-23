@@ -14,6 +14,10 @@ Backend
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><!-- django -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><!-- python -->
 
+SQL
+
+<img src="https://img.shields.io/badge/MYSQL-#4479A1?style=flat-square&logo=MYSQL&logoColor=white"/><!-- mysql -->
+
 Tools
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/><!-- visualstudiocode -->
