@@ -16,7 +16,7 @@ Backend
 
 SQL
 
-<img src="https://img.shields.io/badge/MYSQL-#4479A1?style=flat-square&logo=MYSQL&logoColor=white"/><!-- mysql -->
+<img src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=MYSQL&logoColor=white"/><!-- mysql -->
 
 Tools
 
