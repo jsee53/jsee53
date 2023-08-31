@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=jsee53&fontSize=20&rotate=-30)
   
-# Front-End Developer
+# *Front-End Developer*
 
 ### 🛠️ Skills & Tools
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><!-- react -->
