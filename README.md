@@ -4,7 +4,7 @@
 
 ### 🛠️ *Skills & Tools*
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><!-- react -->
-<img src="https://img.shields.io/badge/-ReactNative-%23F7DF1E?style=flat-square&logo=React&logoColor=white&color=007396"/><!-- react-native -->
+<img src="https://img.shields.io/badge/-ReactNative-F7DF1E?style=flat-square&logo=React&logoColor=white&color=007396"/><!-- react-native -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><!-- javascript -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/><!-- html -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/><!-- css -->
@@ -22,13 +22,13 @@
 ##### 2023. 03 ~ 2023. 11
 ##### - 노래 추천 웹 사이트 제작
 ##### 2023. 03 ~ 2023. 06
-##### - 캘린더 앱 제작
+##### - AI - 캘린더 앱 제작
 
 ### 📖 *Activity*
 ##### 2022. 09 ~ 2022.12
-##### - 대학 코딩 동아리에서 반응형 웹 사이트 클론 코딩
+##### - 단국대학교 코딩 동아리(이지스)에서 반응형 웹 사이트 클론 코딩
 ##### 2022. 11. 25 ~ 2022. 11. 26 2022
-##### - AI-X 해커톤에 참여해 우수상 (네이바클로바 사장상) 수상
+##### - AI-X 해커톤 우수상 (네이버클로바 사장상) 수상
 ##### 2023 ~ 2023. 06
 ##### - TmaxTibero와 과학기술정보통신부에서 개최한 2023 캠퍼스 SW 아카데미 TABA 2기 참여
 
@@ -41,6 +41,9 @@
 ##### - 단국대학교 컴퓨터공학과 학사 졸업
 
 ### 😎 *About me*
+
+##### 
+<a href="https://www.notion.so/FE-c95c9523a0a34018bb62cd4e88e88877?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&color=000000"/><!-- notion --></a>
 
 ##### 📧 jsee53@naver.com
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:87CEEB,100:00BFFF&height=220&section=header&text=Thank%20You!&animation=fadeIn&fontSize=40&&fontColor=FFFFFF)
