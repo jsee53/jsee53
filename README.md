@@ -5,7 +5,8 @@
 ### 🛠️ *Skills & Tools*
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><!-- react -->
 <img src="https://img.shields.io/badge/-ReactNative-F7DF1E?style=flat-square&logo=React&logoColor=white&color=007396"/><!-- react-native -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><!-- javascript -->
+<img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white"/><!-- javascript -->
+<img src="https://img.shields.io/badge/Typescript-F7DF1E?style=flat-square&logo=Typescript&logoColor=white"/><!-- typescript -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/><!-- html -->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/><!-- css -->
 
