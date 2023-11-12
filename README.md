@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:87CEEB,100:00BFFF&height=220&section=header&text=jsee53&animation=fadeIn&fontSize=40&&fontColor=FFFFFF)
-  
-# *Front-End Developer*
 
 ### 🛠️ *Skills & Tools*
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><!-- react -->
