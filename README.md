@@ -35,12 +35,11 @@
 
 ### 🎓 *Degree*
 ##### 2018. 02 ~ 2024. 02
-##### - 단국대학교 컴퓨터공학과 학사 졸업예정(2024.02)
+##### - 단국대학교 컴퓨터공학과 학사 졸업
 
 <br/>
 
 ### 😎 *About me*
-<a href="https://www.notion.so/FE-c95c9523a0a34018bb62cd4e88e88877?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&color=000000"/><!-- notion --></a>
 <img src="https://img.shields.io/badge/jsee53@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&color=03C75A"/><!-- naver -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:87CEEB,100:00BFFF&height=220&section=header&text=Thank%20You!&animation=fadeIn&fontSize=40&&fontColor=FFFFFF)
